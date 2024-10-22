@@ -1,2 +1,15 @@
-
+table{
+	border-collapse:collapse;
+	width:100%;
+	font-family:sans-serif;
+}
+th{
+	background-color:#b30000;
+	color:white;
+	text-align:left;
+	font-family:sans-serif;
+}
+.size{
+	text-align:right;
+}
 /* Your CSS Code here. */
